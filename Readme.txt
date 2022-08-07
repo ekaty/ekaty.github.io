@@ -1,6 +1,6 @@
-Thanks for downloading this template!
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+Template Name: Freelancer
+Freelancer is a flat design, one page Bootstrap portfolio theme perfect for freelancer portfolios, or any other one page website.
+Template URL: 
+https://startbootstrap.com/previews/freelancer
